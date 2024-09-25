@@ -8,7 +8,7 @@ This is a simple Unit converter built using Python, Tkinter and CustomTkinter fo
 ![Temperature Convertion](images/temp_coverter.png)
 ![Weight Convertion](images/weight_coversion.png)
 
-Watch the full video tutorial on YouTube: [Tic-Tac-Toe Game with Tkinter]()
+Watch the full video tutorial on YouTube: [Unit Converter with Python Custom Tkinter](https://www.youtube.com/watch?v=g-Ud-0HFZao)
 
 ## Features
 - Length unit conversion 
