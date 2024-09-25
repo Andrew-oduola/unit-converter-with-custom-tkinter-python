@@ -19,18 +19,18 @@ Watch the full video tutorial on YouTube: [Unit Converter with Python Custom Tki
 ## Technologies Used
 - Python
 - Tkinter (for the graphical user interface)
--
+
 
 ## How to Run
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/Andrew-oduola/unit-converter-with-custom-tkinter-python
    ```
 
 2. **Navigate to the project folder:**
    ```bash
-   cd 
+   cd unit-converter-with-custom-tkinter-python
    ```
 
 3. **Install customtkinter:**
